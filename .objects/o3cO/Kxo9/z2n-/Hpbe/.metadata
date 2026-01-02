@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Application Event Trigger 'button Google Chrome - …'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "HpbelUOXyEufn9ejAe-Ctg",
+  "Reference": "i_rxRW2rjESgzMEMgssJgw/HpbelUOXyEufn9ejAe-Ctg",
+  "ParentRef": "i_rxRW2rjESgzMEMgssJgw/z2n-fAQvtkOjChN4YkTOkA",
+  "Created": "2024-09-11T05:15:13.1059178Z",
+  "Updated": "2024-09-11T05:15:13.1059178Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
